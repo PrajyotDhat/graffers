@@ -1,0 +1,147 @@
+{
+  "companies": [
+    {
+      "id": "7833",
+      "name": "Glowing Bud ",
+      "location": "Maharashtra",
+      "foundedOn": "2024-05-08T18:30:00.000Z",
+      "city": "Pune",
+      "reviews": [
+        {
+          "id": 1714920132110.5623,
+          "fullname": "Rohan Joshi",
+          "subject": "Pros",
+          "review": "These capabilities, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.",
+          "rating": 3
+        },
+        {
+          "id": 1714920334547.8918,
+          "fullname": "Shubham Jodave",
+          "subject": "Advantages",
+          "review": "This software company consistently delivers exceptional service and innovative solutions. Their team goes above and beyond to understand our needs and tailor solutions that drive our business forward. Highly recommended!",
+          "rating": 3
+        },
+        {
+          "id": 1714920393902.233,
+          "fullname": "Dnyaneshwar Londhe",
+          "subject": "Advantages",
+          "review": "We've been using their software for years, and it has been nothing short of fantastic. Their support team is incredibly reliable and efficient, always resolving any issues promptly. The software itself is intuitive and powerful, making our workflow seamless",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": "d824",
+      "name": "Anuyat Software",
+      "location": "Maharashtra",
+      "foundedOn": "2024-04-30T18:30:00.000Z",
+      "city": "Pune",
+      "reviews": [
+        {
+          "id": 1714920431001.4534,
+          "fullname": "Yogesh Birangal",
+          "subject": "Pros",
+          "review": "The software developed by this company has been a game-changer for our organization. It's streamlined our processes, increased productivity, and saved us countless hours of manual work. The team behind it is responsive, knowledgeable, and committed to customer success",
+          "rating": 4
+        },
+        {
+          "id": 1714920466606.109,
+          "fullname": "Ajay Kolekar",
+          "subject": "Advantages",
+          "review": "Innovation is at the heart of this software company. Their cutting-edge solutions have transformed the way we do business, providing us with insights and capabilities we never thought possible. Their commitment to staying ahead of the curve sets them apart from the competition",
+          "rating": 3
+        },
+        {
+          "id": 1714920503004.35,
+          "fullname": "Harshal Wadile",
+          "subject": "Advantages",
+          "review": "One of the things we love most about this software is its user-friendly interface. It's intuitive, easy to navigate, and requires minimal training for our team to get up and running. Plus, the features are robust and customizable to suit our specific needs",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "1490",
+      "name": "Graffers",
+      "location": "Madhya Pradesh",
+      "foundedOn": "2024-05-14T18:30:00.000Z",
+      "city": "Indore",
+      "reviews": [
+        {
+          "id": 1714919993628.5986,
+          "fullname": "Prajyot Dhat",
+          "subject": "Pros",
+          "review": "Graffers is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale.",
+          "rating": 4
+        },
+        {
+          "id": 1714920031622.5173,
+          "fullname": "Harshal Sabale",
+          "subject": "Pros",
+          "review": "We are a talent- and innovation-led company with approximately 743,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships",
+          "rating": 4
+        },
+        {
+          "id": 1714920073681.052,
+          "fullname": "Krishna Wagh",
+          "subject": "Advantages",
+          "review": "We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. We are uniquely able to deliver tangible outcomes because of our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations,",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "id": "9df5",
+      "name": "Infosys",
+      "location": "Karanataka",
+      "foundedOn": "2024-04-29T18:30:00.000Z",
+      "city": "Bangalore",
+      "reviews": [
+        {
+          "id": 1714920672363.5085,
+          "fullname": "John Snow",
+          "subject": "Advantages",
+          "review": "We've had the pleasure of working with the development team at this software company, and they've been incredibly responsive to our needs. They listen to our feedback and implement updates and enhancements regularly, ensuring the software evolves with our business",
+          "rating": 5
+        },
+        {
+          "id": 1714920716251.6714,
+          "fullname": "Miachel Stoinis",
+          "subject": "Pros",
+          "review": "Considering the features, functionality, and support provided, this software offers excellent value for money. It's competitively priced compared to other solutions on the market, yet it exceeds expectations in terms of performance and reliability",
+          "rating": 4
+        },
+        {
+          "id": 1714920760259.2454,
+          "fullname": "Mornie Storm",
+          "subject": "Pros",
+          "review": "Integration with our existing systems was seamless, thanks to the expertise of the software company's integration team. They guided us through the process, addressed any challenges that arose, and ensured a smooth transition with minimal disruption to our operations",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": "0247",
+      "name": "Deloitte",
+      "location": "Maharashtra",
+      "foundedOn": "2024-05-13T18:30:00.000Z",
+      "city": "Mumbai",
+      "reviews": [
+        {
+          "id": 1714920800620.778,
+          "fullname": "Jack Will",
+          "subject": "Pros",
+          "review": "As our business has grown, so has our reliance on this software. Fortunately, it's proven to be highly scalable, effortlessly accommodating our increasing workload and expanding user base. It's reassuring to know we have a solution that can grow with us",
+          "rating": 4
+        },
+        {
+          "id": 1714920841269.9302,
+          "fullname": "Thompson Charles",
+          "subject": "Advantages",
+          "review": "Beyond the software itself, what sets this company apart is its exceptional customer service. From onboarding to ongoing support, their team is knowledgeable, responsive, and dedicated to ensuring our success. It's a partnership we truly value",
+          "rating": 5
+        }
+      ]
+    }
+  ]
+}
